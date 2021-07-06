@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+ 
 
 .first-one{
     display: flex;
@@ -46,4 +47,62 @@ body{
 }
 .half-area h1{
     padding-top: 20px;
+}
+.third-part{
+    margin-top: 50px;
+
+}
+.third-part h1{
+    text-align: center;
+}
+.third-part p{
+    margin-left: 30%;
+    margin-right: 28%;
+    text-align: center;
+}
+
+
+
+
+.panic{
+    width: 90%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 100px auto;
+}
+ 
+.panic cart{
+    width: 30%;
+    height: 93%;
+    padding: 1%;
+    position: relative;
+    
+     
+}
+.cart{
+    margin-left: 15px;
+}
+ 
+
+.cart img{
+    width: 350px;
+    height: 186px;
+}
+
+.footer{
+
+    background-color: black;
+    color: white;
+}
+.foot-h{
+    color: rgb(202, 54, 28);
+}
+.footer h4{
+    text-align: center;
+}
+
+.footer p{
+    margin-left: 25%;
+    margin-right: 25%;
 }
